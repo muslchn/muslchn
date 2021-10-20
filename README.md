@@ -1,4 +1,6 @@
+<!--
 ### Hi there 👋
+-->
 
 <!--
 **muslchn/muslchn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo Semua!
+
+Perkenalkan nama saya **Muslichin**.
+
+Saya seorang **Backend Developer**.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/muslchn/)ku ya.
